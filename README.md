@@ -6,4 +6,4 @@ So this is a basic exercise to check if number is divisible by 3, 5 or both, in 
 Will print *Fizz* in case of divisibility by 3, *Buzz* in case of 5 and *FizzBuzz* if there by both.
 
 ## +Info ##
-Feel free to use like reference to your own code, it's _**free**_.
+Feel  _**free**_ to use like reference to your own code, it's.
